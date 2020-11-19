@@ -13,3 +13,5 @@ of seconds without any mistakes.</p>
 
 ### Usage
 With python installed on your machine, executing the file "fileRenaming.py" will run the program. No external libraries are required as the program is written using Tkinter that comes pre-installed with python.
+
+![](fileRenamingTool.png)
