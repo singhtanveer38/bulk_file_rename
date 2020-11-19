@@ -10,3 +10,6 @@ manually rename files.
 This saves users a lot of time. It spares them the trouble of having to do boring repetitive
 work and make mistakes. With the Bulk File Rename Tool, users can rename files in a couple
 of seconds without any mistakes.</p>
+
+### Usage
+With python installed on your machine, executing the file "fileRenaming.py" will run the program. No external libraries are required as the program is written using Tkinter that comes pre-installed with python.
