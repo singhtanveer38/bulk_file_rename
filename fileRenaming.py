@@ -25,8 +25,6 @@ def renamingFiles():
 
 	os.chdir(directory)
 
-
-
 	z = 1
 	for i in files:
 		os.rename(i, renameString.get() + str(z) + "." + str(i.split(".")[1]))
